@@ -1,5 +1,5 @@
 # Examinator
-A Cheating software for online multiple choice questions written in pure python with the use of tkinter and BS4 modeule
+A software to scrap online multiple choice questions, written in pure python with the use of tkinter and BS4 modeule
 
 
 Load html file or just copy the source code in the examinator window.
